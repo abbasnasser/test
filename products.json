@@ -1,0 +1,14 @@
+{
+    "krispi": {
+        "quantity": 10,
+        "price": 100000
+    },
+    "faroj": {
+        "quantity": 20,
+        "price": 600000
+    },
+    "lazanya": {
+        "quantity": 4,
+        "price": 20000
+    }
+}
